@@ -75,11 +75,8 @@ function Navbar() {
               damping: 20,
             }}
           >
-            Sistema de Facturación
-            <InvoiceNavbarLoading
-              loop
-              className="nav-loading-right "
-            />
+            UCSM --- Facturacion
+
           </motion.div>
         )}
       </div>

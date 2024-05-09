@@ -28,7 +28,7 @@
 }
 
 .app-wraper {
-  background-color: #fafafa;
+  background-color: #ff2e2e;
   overflow-x: hidden;
 }
 
@@ -45,21 +45,21 @@
 }
 
 .primary-self-text {
-  color: rgb(0, 102, 255) !important;
+  color: rgb(50, 50, 50) !important;
 }
 
 .primary-background-color {
-  background-color: rgb(224, 91, 213) !important;
+  background-color: rgb(53, 131, 126) !important;
 }
 
 .text-default-color {
-  color: #777777;
+  color: #464646;
 }
 
 .side-link.active {
-  color: rgb(0, 102, 255);
+  color: rgb(91, 91, 92);
   display: flex;
-  background-color: rgba(0, 102, 255, 0.1);
+  background-color: rgba(0, 102, 255, 0.42);
   transition-delay: 0.2s;
   transition: all 0.3 linear;
 }
@@ -106,7 +106,7 @@ header {
     position: absolute;
     top: -9999px;
     left: -9999px;
-    border-bottom: 2px solid #777;
+    border-bottom: 2px solid #ff0000;
   }
 
   .responsiveTable tbody tr {
